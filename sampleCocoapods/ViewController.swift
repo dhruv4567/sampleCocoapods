@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
+        let sampleView = sample(frame: self.view.bounds)
+        view.addSubview(sampleView)
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }

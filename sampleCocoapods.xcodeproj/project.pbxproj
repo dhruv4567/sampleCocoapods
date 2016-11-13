@@ -12,6 +12,7 @@
 		FC1D67F11DD903050095ED5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1D67EF1DD903050095ED5F /* Main.storyboard */; };
 		FC1D67F31DD903050095ED5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC1D67F21DD903050095ED5F /* Assets.xcassets */; };
 		FC1D67F61DD903050095ED5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1D67F41DD903050095ED5F /* LaunchScreen.storyboard */; };
+		FC1D67FE1DD903330095ED5F /* sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC1D67FD1DD903330095ED5F /* sample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FC1D67F21DD903050095ED5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC1D67F51DD903050095ED5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC1D67F71DD903050095ED5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC1D67FD1DD903330095ED5F /* sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FC1D67EB1DD903050095ED5F /* AppDelegate.swift */,
 				FC1D67ED1DD903050095ED5F /* ViewController.swift */,
+				FC1D67FD1DD903330095ED5F /* sample.swift */,
 				FC1D67EF1DD903050095ED5F /* Main.storyboard */,
 				FC1D67F21DD903050095ED5F /* Assets.xcassets */,
 				FC1D67F41DD903050095ED5F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC1D67EE1DD903050095ED5F /* ViewController.swift in Sources */,
+				FC1D67FE1DD903330095ED5F /* sample.swift in Sources */,
 				FC1D67EC1DD903050095ED5F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				FC1D67FC1DD903050095ED5F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
