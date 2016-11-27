@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FC1D67E71DD903050095ED5F"
-               BuildableName = "sampleCocoapods.app"
-               BlueprintName = "sampleCocoapods"
-               ReferencedContainer = "container:sampleCocoapods.xcodeproj">
+               BuildableName = "sampleCocoa.app"
+               BlueprintName = "sampleCocoa"
+               ReferencedContainer = "container:sampleCocoa.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC1D67E71DD903050095ED5F"
-            BuildableName = "sampleCocoapods.app"
-            BlueprintName = "sampleCocoapods"
-            ReferencedContainer = "container:sampleCocoapods.xcodeproj">
+            BuildableName = "sampleCocoa.app"
+            BlueprintName = "sampleCocoa"
+            ReferencedContainer = "container:sampleCocoa.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC1D67E71DD903050095ED5F"
-            BuildableName = "sampleCocoapods.app"
-            BlueprintName = "sampleCocoapods"
-            ReferencedContainer = "container:sampleCocoapods.xcodeproj">
+            BuildableName = "sampleCocoa.app"
+            BlueprintName = "sampleCocoa"
+            ReferencedContainer = "container:sampleCocoa.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC1D67E71DD903050095ED5F"
-            BuildableName = "sampleCocoapods.app"
-            BlueprintName = "sampleCocoapods"
-            ReferencedContainer = "container:sampleCocoapods.xcodeproj">
+            BuildableName = "sampleCocoa.app"
+            BlueprintName = "sampleCocoa"
+            ReferencedContainer = "container:sampleCocoa.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FC1D67E81DD903050095ED5F /* sampleCocoapods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sampleCocoapods.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC1D67E81DD903050095ED5F /* sampleCocoa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sampleCocoa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC1D67EB1DD903050095ED5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC1D67ED1DD903050095ED5F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FC1D67F01DD903050095ED5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		FC1D67DF1DD903050095ED5F = {
 			isa = PBXGroup;
 			children = (
-				FC1D67EA1DD903050095ED5F /* sampleCocoapods */,
+				FC1D67EA1DD903050095ED5F /* sampleCocoa */,
 				FC1D67E91DD903050095ED5F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		FC1D67E91DD903050095ED5F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC1D67E81DD903050095ED5F /* sampleCocoapods.app */,
+				FC1D67E81DD903050095ED5F /* sampleCocoa.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FC1D67EA1DD903050095ED5F /* sampleCocoapods */ = {
+		FC1D67EA1DD903050095ED5F /* sampleCocoa */ = {
 			isa = PBXGroup;
 			children = (
 				FC1D67EB1DD903050095ED5F /* AppDelegate.swift */,
@@ -64,15 +64,16 @@
 				FC1D67F41DD903050095ED5F /* LaunchScreen.storyboard */,
 				FC1D67F71DD903050095ED5F /* Info.plist */,
 			);
+			name = sampleCocoa;
 			path = sampleCocoapods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FC1D67E71DD903050095ED5F /* sampleCocoapods */ = {
+		FC1D67E71DD903050095ED5F /* sampleCocoa */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC1D67FA1DD903050095ED5F /* Build configuration list for PBXNativeTarget "sampleCocoapods" */;
+			buildConfigurationList = FC1D67FA1DD903050095ED5F /* Build configuration list for PBXNativeTarget "sampleCocoa" */;
 			buildPhases = (
 				FC1D67E41DD903050095ED5F /* Sources */,
 				FC1D67E51DD903050095ED5F /* Frameworks */,
@@ -82,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = sampleCocoapods;
+			name = sampleCocoa;
 			productName = sampleCocoapods;
-			productReference = FC1D67E81DD903050095ED5F /* sampleCocoapods.app */;
+			productReference = FC1D67E81DD903050095ED5F /* sampleCocoa.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FC1D67E31DD903050095ED5F /* Build configuration list for PBXProject "sampleCocoapods" */;
+			buildConfigurationList = FC1D67E31DD903050095ED5F /* Build configuration list for PBXProject "sampleCocoa" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -117,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FC1D67E71DD903050095ED5F /* sampleCocoapods */,
+				FC1D67E71DD903050095ED5F /* sampleCocoa */,
 			);
 		};
 /* End PBXProject section */
@@ -266,7 +267,7 @@
 				DEVELOPMENT_TEAM = 38R8E27T48;
 				INFOPLIST_FILE = sampleCocoapods/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.OneTouch.sampleCocoapods;
+				PRODUCT_BUNDLE_IDENTIFIER = com.OneTouch.sampleCocoa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -279,7 +280,7 @@
 				DEVELOPMENT_TEAM = 38R8E27T48;
 				INFOPLIST_FILE = sampleCocoapods/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.OneTouch.sampleCocoapods;
+				PRODUCT_BUNDLE_IDENTIFIER = com.OneTouch.sampleCocoa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -288,7 +289,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC1D67E31DD903050095ED5F /* Build configuration list for PBXProject "sampleCocoapods" */ = {
+		FC1D67E31DD903050095ED5F /* Build configuration list for PBXProject "sampleCocoa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC1D67F81DD903050095ED5F /* Debug */,
@@ -297,7 +298,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FC1D67FA1DD903050095ED5F /* Build configuration list for PBXNativeTarget "sampleCocoapods" */ = {
+		FC1D67FA1DD903050095ED5F /* Build configuration list for PBXNativeTarget "sampleCocoa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC1D67FB1DD903050095ED5F /* Debug */,
